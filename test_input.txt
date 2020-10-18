@@ -1,0 +1,12 @@
+begin
+    x1=4;
+    x2=8;
+    x3=2;
+    x4=1;
+    h  = (x2/x1) + x3 ;
+    g  = x1 + x1*x2 ;
+    y  = g + (x4) ;
+    for(i=1,x=3,y=5;i<x+4;i++)do
+        x1=x1+1;
+    endfor
+end
