@@ -5,6 +5,7 @@ git clone https://github.com/tanmaytirpankar/ForLoopParser.git
 
 ## Requirements:
 sly
+sympy
 
 ```
 $python3 parser1.py test_input.txt
