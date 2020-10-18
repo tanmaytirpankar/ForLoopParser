@@ -12,6 +12,8 @@ Parsing completed
 {'_caller_': None, 'x1': 10, 'x2': 8, 'x3': 2, 'x4': 1, 'h': 4.0, 'g': 36, 'y': 5, 'i': 7, 'x': 3}
 ```
 
+The output above are the contents of te symbol table. 
+
 Currently the loops can evaluate any arithmetic expression using integers and identifiers. Have not tested for nested loop yet since there is only one symbol table being used for the whole program. You can add additional statements to the loop body for checking multiple statments.
 
 ## Idea about for loops:
